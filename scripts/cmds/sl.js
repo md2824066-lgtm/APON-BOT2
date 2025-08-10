@@ -3,7 +3,7 @@ const path = require("path");
 
 module.exports = {
   config: {
-    name: "sl",
+    name: "APON",
     version: "1.3",
     author: "ᴀɴɪᴋ_🐢",
     role: 2,
