@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/9f7p0a.jpg" alt="banner">
+<img src="https://files.catbox.moe/fe3ng1.jpg" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot V2- Chatbot Messenger</h1>
 
 
